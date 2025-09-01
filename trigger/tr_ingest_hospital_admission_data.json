@@ -1,5 +1,5 @@
 {
-	"name": "tr_ingest_hospital_adimission_data",
+	"name": "tr_ingest_hospital_admission_data",
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Started",
